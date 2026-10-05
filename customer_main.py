@@ -1,5 +1,5 @@
 from pyspark.sql import SparkSession
-from initializer_customer import load_customer_profile
+from customer_initializer import load_customer_profile
 
 
 def main():
