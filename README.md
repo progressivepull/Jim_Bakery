@@ -63,7 +63,7 @@ Expected output:
 Execute the application:
 
 ```bash
-python ./main_customer.py
+python ./customer_main.py
 ```
 
 Sample output:
